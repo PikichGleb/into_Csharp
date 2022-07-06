@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Комментарий
+Console.WriteLine("Hello, World! -_- ");
+Console.WriteLine("Hello, World! -_- ");
+Console.WriteLine("Hello, World! -_- ");
